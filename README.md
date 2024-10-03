@@ -21,7 +21,7 @@ Python(PyTorch, tensorflow, scikit-learn, streamlit, fastapi)
 
 1. Main(Unfinished): Bachelar in Fundamental Computer Science and information technologies. Omsk State Technical University
   
-2. Additional(Finished): Translator in the field of professional communication Omsk State Technical University
+2. Additional(Finished): Translator in the field of professional communication. Omsk State Technical University
 
 <!--
 **Rooney22/Rooney22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
